@@ -1,0 +1,8 @@
+[package]
+name = "toml-example"
+version = "0.1.0"
+authors = ["Hugo Mota <hugo.txt@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+toml = "0.4.10"
